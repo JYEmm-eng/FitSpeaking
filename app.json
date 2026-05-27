@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "FitSpeak",
+    "slug": "fitspeak-demo",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.demo.fitspeak"
+    },
+    "android": {
+      "package": "com.demo.fitspeak"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
